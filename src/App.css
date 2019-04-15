@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  width:95%;
+  margin:15px;
+}
+
+.container-drag {
+  text-align: center;
+}
+
+.wip{
+  position: absolute;
+  width:25%;
+  height: 100vh;
+  background-color: #d43f3f;
+}
+.td{
+  position: absolute;
+  width:25%;
+  height: 100vh;
+  background-color: #d2c85d;
+}
+.ip{
+  position: absolute;
+  width:25%;
+  height: 100vh;
+  background-color: #70d25d;
+}
+.com{
+  position: absolute;
+  width:25%;
+  height: 100vh;
+  background-color: #5dbcd2;
+}
+.droppable{
+  position: absolute;
+  width:25%;
+  height:100vh;
+  background-color: #9E9E9E;
+
+}
+.draggable{
+  height:100px;
+  background-color: #f2f2f2;
+  margin:5px auto;
+  line-height: 5em;
+
+}
